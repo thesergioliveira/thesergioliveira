@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am junior web developer. Bellow you will find my learnig journey and the steps I took to go from zero to HERO.
+- 📫 How to reach me: thesergioliveira@gmail.com 
 <!--
 **thesergioliveira/thesergioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
