@@ -3,6 +3,8 @@
 I am junior web developer. 
 Bellow you will find my learnig journey to go from zero to HERO.
 
+- 🔭 I’m currently working on: [mylandingPage] (https://github.com/thesergioliveira/myLandingPage) 
+
 - 📫 How to reach me: thesergioliveira@gmail.com 
 <!--
 **thesergioliveira/thesergioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
