@@ -3,8 +3,8 @@
 I am junior web developer. 
 Bellow you will find my learnig journey to go from zero to HERO.
 
-- 🤩 finished projects:
-  * sdsdg
+- 🤩 Some of my projects:
+  * [Password Generator](https://github.com/thesergioliveira/passwordGenerator/blob/73f955f80d38de051a0c80c0e434161066d44070/passwordGenerator.js#L14)
 
 - 🧗 I’m currently working on: [My Landing Page](https://github.com/thesergioliveira/myLandingPage "Github version")
 
