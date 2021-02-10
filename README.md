@@ -3,7 +3,7 @@
 I am junior web developer. 
 Bellow you will find my learnig journey to go from zero to HERO.
 
-- 🔭 I’m currently working on: [mylandingPage] (https://github.com/thesergioliveira/myLandingPage) 
+- 🔭 I’m currently working on: (https://github.com/thesergioliveira/myLandingPage "My Landing Page") 
 
 - 📫 How to reach me: thesergioliveira@gmail.com 
 <!--
