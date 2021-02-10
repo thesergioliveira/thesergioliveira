@@ -3,7 +3,8 @@
 I am junior web developer. 
 Bellow you will find my learnig journey to go from zero to HERO.
 
--  💪 finished projects
+- 🤩 finished projects:
+* 
 
 - 🧗 I’m currently working on: [My Landing Page](https://github.com/thesergioliveira/myLandingPage "Github version")
 
