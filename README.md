@@ -1,11 +1,14 @@
-### Hey, there 👋!
+<h1 align="center">Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"> </h1> 
+<h4 align="center">I am Sergio, junior web developer!</h4> 
+<p align="center">
+I would like to share with you a bit more about my journey
+</p>
 
-I am junior web developer. 
-Bellow you will find my learnig journey to go from zero to HERO.
-
-- [💪 Some of my projects](https://github.com/thesergioliveira/liveCoding/blob/main/README-PROJECT.md)
+- [💪 Some of my projects](https://github.com/thesergioliveira/thesergioliveira/blob/main/projects.md)
 
 - 🧗 I’m currently working on: [My Landing Page](https://github.com/thesergioliveira/myLandingPage "Github version")
+
+
 
 - 📫 How to reach me: thesergioliveira@gmail.com 
 
