@@ -6,9 +6,14 @@
 - [Counting spaces]:\
 - [Verify phone number](https://github.com/thesergioliveira/liveCoding/blob/1ee6ab5ae02a881311fd7013699ae1e30fcbe539/jan/28-01/index.js#L55)\
 * [Pig Latin]() - \
-- []:\
-- []:\
-- []:\
+* 
+Sandwich navigation menu samples  
+Periodic table 
+Web Mobile 
+Youtube Clone 
+Login App 
+The puppy project 
+
 
 
 
