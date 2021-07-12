@@ -14,8 +14,49 @@ Youtube Clone
 Login App 
 The puppy project 
 
+```
+
+let data = [
+    {
+        name: "Sergio Almeida Oliveira",
+        version: 27,
+        nationality: "brazilian",
+        hobbies: ["travelling", "camping", "cycling", "reading", "typing", "linux" ],
+        contact: "thesergioliveira@gmail.com",
+        home: "Dresden",
+
+    },
+    {
+        toolStack: [
+            "git",
+            "html", 
+            "css", 
+            "sass", 
+            "javascript", 
+            "react", 
+            "redux"
+        ]
+    },
+    {
+        technologies:{
+            webDesign: ["Figma", "AdobeXD", "gimp"],
+            development: ["VS Code", "Github", Google cloud Platform"],
+            
 
 
+        }
+    }
+```
+
+]
+
+
+Class WebDev {
+    constructor(name, ){
+        this.name = name
+    }
+    
+}
 
 
 <!--
