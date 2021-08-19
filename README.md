@@ -2,7 +2,7 @@
 import React, { Fragement } from "react";
 
 
-let data = [
+let data = 
     {
         name: "Sergio Almeida Oliveira",
         version: 27,
@@ -11,9 +11,6 @@ let data = [
         contact: "thesergioliveira@gmail.com",
         home: "Dresden",
         profession: "webDev student",
-
-    },
-    {
         toolStack: [
             "git",
             "html", 
@@ -22,15 +19,12 @@ let data = [
             "javascript", 
             "react", 
             "redux"
-        ]
-    },
-    {
+        ],
         technologies:{
             webDesign: ["Figma", "AdobeXD", "gimp"],
             development: ["VS Code", "Github", Google cloud Platform"],
-        }
-    },
-    {
+        },
+  
         someProjects: [
             {
                 name: "Youtube Clone",
@@ -60,8 +54,8 @@ let data = [
                 name: "Country API",
                 link: "",
             }
-        ]
-    }
+         ]
+      }
 
 
 
