@@ -58,11 +58,6 @@ let data =
       }
 
 
-
-
-ReactDOM.render(
-<React.StrictMode>
-
 ```
 
 <h1 align="center">< h2> Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"> < /h2> </> 
