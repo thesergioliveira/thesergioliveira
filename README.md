@@ -12,15 +12,15 @@ let data =
         hobbies: ["travelling", "camping", "cycling", "reading", "typing", "linux" ],
         contact: "thesergioliveira@gmail.com",
         home: "Dresden",
-        profession: "webDev student",
+        profession: "webDev",
         toolStack: [
-            "git",
-            "html", 
-            "css", 
             "sass", 
             "javascript", 
             "react", 
-            "redux"
+            "Jest",
+            "Node",
+            "Expres"
+            "MongoDB",
         ],
         technologies:{
             webDesign: ["Figma", "AdobeXD", "gimp"],
@@ -75,7 +75,7 @@ export default aboutMe;
 
 
 
- < h2 align="center"> Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"> < /h2> 
+ < h2 align="center">Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"< /h2> 
 - [💪 Interested? Here are some of my projects :)](https://github.com/thesergioliveira/thesergioliveira/blob/main/projects.md)
 
 - 🧗 I’m currently working on: [My Landing Page](https://github.com/thesergioliveira/myLandingPage "Github version")
