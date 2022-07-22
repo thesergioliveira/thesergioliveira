@@ -58,6 +58,8 @@ let data =
             }
          ]
       }
+      
+      return (
 ```
 
 <h1 align="center">< h2> Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"> < /h2> </> 
@@ -74,6 +76,12 @@ I would like to share with you, about my journey to become a developer and the e
 
 - 📫 How to reach me: thesergioliveira@gmail.com 
 
+```
+);
+
+export default aboutMe;
+
+```
 
 <!--
 **thesergioliveira/thesergioliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
