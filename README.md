@@ -62,11 +62,13 @@ let data =
       }
       
       const List = () => {
-      
+      console.log('React is awesome!');
       return data.someProjects.map((project, i) => {
+       return (
         <li key={i}>
           <a href={project.link} target='_blank'>{project.name}</a>  
         </li>
+        )
       });
       
       };
