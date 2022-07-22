@@ -1,7 +1,7 @@
 ```javascript
 import React from "react";
 
-const aboutMe = () => {
+const AboutMe = () => {
 
 
 let data = 
@@ -71,6 +71,8 @@ let data =
 export default aboutMe;
 
 ```
+
+
 
  <h1 align="center">< h2> Hello <img src="https://media.giphy.com/media/WqR7WfQVrpXNcmrm81/giphy.gif" width="25"> < /h2> </> 
 - [💪 Interested? Here are some of my projects :)](https://github.com/thesergioliveira/thesergioliveira/blob/main/projects.md)
