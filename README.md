@@ -61,12 +61,25 @@ let data =
          ]
       }
       
+      const List = () => {
+      
+      return data.someProjects.map((project, i) => {
+        <li key={i}>
+          <a href={project.link} target='_blank'>{project.name}</a>  
+        </li>
+      });
+      
+      };
+      
     return (
         <>
             <h1> My name is {data.name} and I am a  {data.profession} !</h1> 
-            <h4 align="center">
+            <h3 align="center">
             I would like to share with you, about my journey to become a developer and the experiences I gathered thus far. In order to accomplish that I have Listed bellow some relevant links to showcase some of my work. 
-            </h4>
+            </h3>
+            <ul>
+              <List/> 
+            </ul>
         </>
    );
 };
