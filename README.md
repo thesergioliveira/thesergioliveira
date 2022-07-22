@@ -87,7 +87,7 @@ let data =
    );
 };
 
-export default aboutMe;
+export default AboutMe;
 
 ```
 
